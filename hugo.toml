@@ -10,7 +10,7 @@ paginate = 10
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  homeInfoParams = {Title = "bi-macro 👋", Content = "데이터로 공부하는 BI 엔지니어의 매크로 경제 분석"}
+  homeInfoParams = {Title = "bi-macro", Content = "데이터로 공부하는 BI 엔지니어의 매크로 경제 분석"}
 
 [menu]
   [[menu.main]]

@@ -5,12 +5,13 @@ theme = "PaperMod"
 paginate = 10
 
 [params]
-  description = "데이터로 공부하는 BI 엔지니어의 매크로 경제 분석"
+  description = "BI 엔지니어의 분석 리포트 연습"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  homeInfoParams = {Title = "bi-macro", Content = "데이터로 공부하는 BI 엔지니어의 매크로 경제 분석"}
+  homeInfoParams = {Title = "bi-macro", Content = "BI 엔지니어의 분석 리포트 연습"}
+  dateFormat = "2006년 01월 02일"
 
 [menu]
   [[menu.main]]

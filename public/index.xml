@@ -6,14 +6,22 @@
     <description>Recent content on bi-macro</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:58:50 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/bi-macro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BI 엔지니어 기술 블로그의 시작</title>
+      <link>http://localhost:1313/bi-macro/posts/first-post/</link>
+      <pubDate>Mon, 07 Sep 2026 12:58:50 +0000</pubDate>
+      <guid>http://localhost:1313/bi-macro/posts/first-post/</guid>
+      <description>&lt;h4 id=&#34;bi엔지니어-기술-블로그의-시작&#34;&gt;BI엔지니어 기술 블로그의 시작&lt;/h4&gt;
+&lt;h2&gt;&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>첫 번째 테스트 글</title>
       <link>http://localhost:1313/bi-macro/posts/test-post/</link>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bi-macro/posts/test-post/</guid>
-      <description>&lt;p&gt;안녕하세요. bi-macro 블로그 첫 글입니다.&lt;/p&gt;
+      <description>&lt;p&gt;안녕하세요. bi-macro 블로그 첫 글입니다&lt;/p&gt;
 &lt;p&gt;데이터로 공부하는 BI 엔지니어의 매크로 경제 분석 블로그입니다.&lt;/p&gt;</description>
     </item>
   </channel>

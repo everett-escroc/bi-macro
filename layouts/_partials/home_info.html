@@ -1,0 +1,9 @@
+{{- with site.Params.homeInfoParams }}
+<div class="home-info" style="padding: 12px 0 24px 0; border-bottom: 1px solid var(--border); margin-bottom: 24px;">
+    <h2 style="font-size: 1rem; font-weight: 600; margin: 0 0 4px 0;">{{ .Title | markdownify }}</h2>
+    <p style="font-size: 0.85rem; color: var(--secondary); margin: 0;">
+        {{ .Content | $.Page.RenderString }}
+    </p>
+    {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+</div>
+{{- end -}}
